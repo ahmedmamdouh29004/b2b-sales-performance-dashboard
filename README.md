@@ -25,7 +25,7 @@ Alex Agency Analytics is an end-to-end **business intelligence solution** built 
 ## 📸 Dashboard Preview
 
 👉 **View Dashboard Preview (PDF):**  
-[b2b-sales-dashboard-preview](docs/b2b-sales-dashboard-preview.pdf)
+[b2b-sales-dashboard-preview](docs/b2b-sales-dashboard-walkthrough.pdf)
 
 | Landing Page | Sales Trends & Seasonality | Shipping & Delivery |
 |--------------|----------------------------|----------------------|
